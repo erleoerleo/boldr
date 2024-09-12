@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Boldify",
+  "name": "Boldr",
   "version": "1.0",
   "description": "Convert the first half of characters in each word to bold text",
   "permissions": ["contextMenus", "scripting"],

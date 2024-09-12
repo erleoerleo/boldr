@@ -1,13 +1,13 @@
 chrome.runtime.onInstalled.addListener(function () {
     chrome.contextMenus.create({
-      id: "boldify",
+      id: "boldr",
       title: "Make first half of selected words Bold",
       contexts: ["selection"]
     });
   });
   
   chrome.contextMenus.onClicked.addListener(function (info, tab) {
-    if (info.menuItemId === "boldify") {
+    if (info.menuItemId === "boldr") {
       chrome.scripting.executeScript({
         target: { tabId: tab.id },
         function: transformSelectedText
