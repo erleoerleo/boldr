@@ -1,0 +1,26 @@
+Privacy Policy for Boldify Chrome Extension
+Last updated: 12.09.2024
+
+This Privacy Policy describes how the Boldify Chrome Extension ("Boldify", "we", "our", or "us") collects, uses, and discloses information, and what choices you have with respect to the information.
+
+Applicability of this Privacy Policy
+This Privacy Policy applies to the Boldify Chrome Extension available for use in the Google Chrome browser.
+
+Information We Collect and Receive
+Boldify does not collect or store any personal information. We do not track or transmit any data regarding your browsing activity, history, or any content you interact with while using the Boldify extension.
+
+How We Use Information
+Since we do not collect any information, there is no usage of data to describe.
+
+Data Storage and Transfer
+Boldify does not store or transfer any data as it operates entirely offline without any need for internet connectivity, except for downloading the extension from the Chrome Web Store.
+
+Your Choices and Controls
+As Boldify does not collect any information, there are no choices or controls to manage.
+
+Changes to this Privacy Policy 
+We may change this Privacy Policy from time to time. We will post any changes on this page with a new effective date.
+
+Contact Us 
+For any questions about this Privacy Policy, please contact us at erlend.envision at gmail.com
+
